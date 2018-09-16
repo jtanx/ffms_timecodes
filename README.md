@@ -1,2 +1,2 @@
 # ffms_timecodes
-ffms2 timecodes mod
+Write out timecodes starting from time 0
