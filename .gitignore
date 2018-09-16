@@ -1,0 +1,6 @@
+*.sdf
+.vs
+*.user
+Debug/
+Release/
+externals/ffms2
